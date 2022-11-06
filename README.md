@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# TDL using REACTJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made while learning ReactJS.
 
 ## Available Scripts
 
