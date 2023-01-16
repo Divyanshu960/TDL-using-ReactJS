@@ -10,7 +10,7 @@ function App() {
      console.log("Im onDelete",todo);
      //aise nhi hoga delete
     // let index = todos.indexOf(todo);
-    // todos.splice(index,1);
+    // todos.splice(index,1); 
  
     setTodos(todos.filter((e)=> {
       return e!== todo;
