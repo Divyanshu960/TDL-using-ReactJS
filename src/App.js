@@ -16,7 +16,7 @@ function App() {
       return e!== todo;
     }))
   }
-
+ 
  const [todos,setTodos] =useState([
   {
     sno: 1,
