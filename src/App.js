@@ -11,7 +11,7 @@ function App() {
      //aise nhi hoga delete
     // let index = todos.indexOf(todo);
     // todos.splice(index,1);
-
+ 
     setTodos(todos.filter((e)=> {
       return e!== todo;
     }))
